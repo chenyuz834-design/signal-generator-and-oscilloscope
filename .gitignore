@@ -1,0 +1,28 @@
+# Build outputs
+Debug/
+Release/
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+
+# Local logs and temporary files
+httpserver.out.txt
+httpserver.err.txt
+*.log
+*.tmp
+
+# IDE/workspace local files
+.metadata/
+.vscode/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+.DS_Store
